@@ -1,6 +1,6 @@
 # Установка необходимого ПО
 
-> Скриншоты ниже сделаны в VS Code и на GitHub. На них может быть видна другая организация того же курса — у вас вместо неё будет `hse-algo-ris-25-1`, набор репозиториев и веток совпадает.
+> Скриншоты ниже сделаны в VS Code и на GitHub. На них может быть видна другая организация того же курса — у вас вместо неё будет `hse-algo-ris-25-4`, набор репозиториев и веток совпадает.
 
 ## GitHub account
 
@@ -45,9 +45,9 @@
 
 **Клонировать репозиторий** с заданиями, предварительно авторизовавшись на GitHub.
 
-Для **программных** заданий клонируйте репозиторий [code-tasks](https://github.com/hse-algo-ris-25-1/code-tasks): в нём дальше создаёте `.venv` и ставите зависимости.
+Для **программных** заданий клонируйте репозиторий [code-tasks](https://github.com/hse-algo-ris-25-4/code-tasks): в нём дальше создаёте `.venv` и ставите зависимости.
 
-Для **ручных** заданий клонируйте [manual-tasks](https://github.com/hse-algo-ris-25-1/manual-tasks): Python-окружение не нужно, достаточно VS Code.
+Для **ручных** заданий клонируйте [manual-tasks](https://github.com/hse-algo-ris-25-4/manual-tasks): Python-окружение не нужно, достаточно VS Code.
 
 В VS Code: **Welcome → Clone Git Repository** (или `Ctrl + Shift + P` → `Git: Clone`).
 
@@ -55,15 +55,15 @@
 
 ![клонирование репозитория](assets/git-clone-2.png)
 
-После авторизации репозитории организации будут доступны для выбора и клонирования. Введите в строку поиска `hse-algo-ris-25-1` — увидите `code-tasks`, `manual-tasks` и `docs`:
+После авторизации репозитории организации будут доступны для выбора и клонирования. Введите в строку поиска `hse-algo-ris-25-4` — увидите `code-tasks`, `manual-tasks` и `docs`:
 
 ![выбор репозиториев](assets/git-clone-3.png)
 
 То же самое можно сделать в терминале:
 
 ```sh
-git clone https://github.com/hse-algo-ris-25-1/code-tasks.git
-git clone https://github.com/hse-algo-ris-25-1/manual-tasks.git
+git clone https://github.com/hse-algo-ris-25-4/code-tasks.git
+git clone https://github.com/hse-algo-ris-25-4/manual-tasks.git
 ```
 
 ## Терминал в VS Code
