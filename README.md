@@ -9,4 +9,4 @@
 | [branching-model.md](branching-model.md) | Схемы ветвления для всех типов репозиториев курса |
 | [useful-links.md](useful-links.md) | Внешние материалы по Git, Markdown, Python |
 
-Репозитории с заданиями: [code-tasks](https://github.com/hse-algo-ris-25-4/code-tasks), [manual-tasks](https://github.com/hse-algo-ris-25-4/manual-tasks).
+Репозитории с заданиями: [code-tasks](https://github.com/hse-algo-ris-25-1/code-tasks), [manual-tasks](https://github.com/hse-algo-ris-25-1/manual-tasks).

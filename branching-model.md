@@ -4,8 +4,8 @@
 
 | Репозиторий | Где лежат задания | Ветка команды | base для pull request | После ревью |
 |---|---|---|---|---|
-| [manual-tasks](https://github.com/hse-algo-ris-25-4/manual-tasks) | каталоги `Задание N` в `main` | `<команда>-task-N` от `main` | `main` | **вливают** в `main` |
-| [code-tasks](https://github.com/hse-algo-ris-25-4/code-tasks) | ветки `main-task-N` (защищены) | `<команда>-task-N` от ветки задания | ветка задания `main-task-N` | **закрывают без слияния** |
+| [manual-tasks](https://github.com/hse-algo-ris-25-1/manual-tasks) | каталоги `Задание N` в `main` | `<команда>-task-N` от `main` | `main` | **вливают** в `main` |
+| [code-tasks](https://github.com/hse-algo-ris-25-1/code-tasks) | ветки `main-task-N` (защищены) | `<команда>-task-N` от ветки задания | ветка задания `main-task-N` | **закрывают без слияния** |
 
 ---
 
@@ -117,7 +117,7 @@ gitGraph
 
 | Что | Шаблон | Пример |
 |---|---|---|
-| Ветка программного задания | `main-task-<N>` или `main-task-<N>-v<вариант>` | `main-task-3-v11` |
+| Ветка программного задания | `main-task-<N>` или `main-task-<N>-v<вариант>` | `main-task-2-v1` |
 | Ветка команды (программное задание) | `<команда>-task-<N>[-v<вариант>]` | `first-team-task-3-v11` |
 | Ветка команды (ручное задание) | `<команда>-task-<N>` | `first-team-task-3` |
 
